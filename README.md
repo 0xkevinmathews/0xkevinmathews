@@ -11,7 +11,7 @@ Welcome to my Penetration Testing Portfolio! This repository showcases my skills
 ---
 
 ## About Me
-
+![ethical hacker](https://www.shutterstock.com/image-vector/abstract-polygonal-hacker-laptop-on-600nw-2434637651.jpg)
 - **Name:** kevin mathews
 - **Role:** Penetration Tester & Cybersecurity Specialist  
 - **Experience:**  in ethical hacking, vulnerability assessment, and exploit development.  
